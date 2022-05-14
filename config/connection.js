@@ -1,3 +1,4 @@
+// connects to mySQL via info provided in env file
 require('dotenv').config();
 
 const Sequelize = require('sequelize');
