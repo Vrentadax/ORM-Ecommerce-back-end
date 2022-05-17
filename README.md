@@ -5,7 +5,7 @@
 
 ## Description
 
-A program to view and manage the departments, roles, and employees in a company so the user can organize and plan their business.
+A back end for a e-commerce website that uses the latest technologies.
 
 ## Table of Contents
 - [Installation](#installation)
